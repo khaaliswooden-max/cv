@@ -2,7 +2,7 @@
 
 **Active Roles, Projects & Responsibilities**
 
-*December 2025*
+*July 2026*
 
 ---
 
@@ -305,10 +305,10 @@ Developing next-generation technology platforms that address complex global chal
 
 ## 🎓 Southern New Hampshire University
 
-**Program:** MBA, Information Technology Management  
-**Status:** Active Student  
-**Expected Conferral:** May 1, 2026  
-**Current Progress:** On track for timely completion
+**Completed:** MBA, Information Technology Management — Conferred May 1, 2026  
+**Current Program:** MS, Information Technology (MSIT)  
+**Status:** Active Student · Class of 2027  
+**Current Progress:** In progress, on track for 2027 completion
 
 ### **Academic Focus Areas**
 
@@ -354,7 +354,7 @@ Developing next-generation technology platforms that address complex global chal
 - Technology adoption in government agencies
 - Strategic positioning for federal IT services
 
-### **Post-MBA Objectives**
+### **Post-Graduate Objectives**
 
 **DBA Pursuit (Doctor of Business Administration)**
 - Research focus on AI governance and federal technology adoption
@@ -385,7 +385,8 @@ Developing next-generation technology platforms that address complex global chal
 - **Research Papers:** 3+ in preparation for arXiv
 
 ### **Academic Progress**
-- **MBA Progress:** On schedule for May 2026 completion
+- **MBA:** Conferred May 1, 2026
+- **MSIT Progress:** In progress, on track for Class of 2027
 - **Undergraduate GPA:** 3.8
 - **Relevant Coursework:** IT Management, Strategic Innovation, Leadership
 
@@ -454,5 +455,5 @@ Developing next-generation technology platforms that address complex global chal
 
 ---
 
-*This document reflects active work as of December 2025 and is updated regularly to reflect current projects and priorities.*
+*This document reflects active work as of July 2026 and is updated regularly to reflect current projects and priorities.*
 
