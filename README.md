@@ -138,6 +138,11 @@ cv/
 ├── CURRENT_FOCUS.md            # Active work and responsibilities
 ├── VISION_FORWARD.md           # Strategic objectives and goals
 ├── PAST_PERFORMANCE.md         # Career history and achievements
+├── CHANGELOG.md                # Notable updates to this CV
+├── CONTRIBUTING.md             # How to report issues or suggest fixes
+├── CODE_OF_CONDUCT.md          # Conduct expectations for interactions
+├── SECURITY.md                 # Privacy and responsible-disclosure policy
+├── LICENSE                     # CC BY-NC-ND 4.0 usage terms
 └── assets/                     # Supporting documents and visuals
 ```
 
@@ -218,4 +223,13 @@ I combine deep technical implementation experience with strategic business devel
 *Last Updated: December 2025*
 
 **Status:** Actively seeking strategic opportunities in federal technology modernization, AI governance, and compliance automation.
+
+---
+
+## 📜 License
+
+This CV and its accompanying materials are licensed under
+[CC BY-NC-ND 4.0](./LICENSE). See [SECURITY.md](./SECURITY.md) for privacy
+and disclosure notes, and [CONTRIBUTING.md](./CONTRIBUTING.md) for how to
+suggest corrections.
 

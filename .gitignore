@@ -1,0 +1,44 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.\#*
+\#*\#
+
+# Local / draft files
+*.local
+*.draft
+*.tmp
+drafts/
+scratch/
+
+# Generated exports (build these from source rather than committing)
+*.pdf
+*.docx
+*.doc
+*.zip
+build/
+dist/
+out/
+
+# Environment / secrets (should never be in a CV repo)
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Logs
+*.log
