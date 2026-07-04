@@ -765,7 +765,7 @@ Early adopter of technology solutions to drive efficiency—from iPad-based insp
 Demonstrated commitment to safety and regulatory compliance across military, manufacturing, food production, and retail. The 386-day safety record isn't just about procedures—it's about culture, leadership, and sustained excellence.
 
 ### **5. Continuous Learning**
-Career trajectory shows continuous upskilling—from military logistics to retail operations to quality engineering to technology leadership. MBA pursuit and DBA plans continue pattern of investing in knowledge and capability development.
+Career trajectory shows continuous upskilling—from military logistics to retail operations to quality engineering to technology leadership. Completing the MBA (2026), pursuing the MSIT (Class of 2027), and DBA plans continue the pattern of investing in knowledge and capability development.
 
 ### **6. Servant Leadership**
 Whether training soldiers, mentoring employees, or coaching teams, consistent pattern of developing others and building organizational capability. Leadership style emphasizes empowerment, accountability, and growth.

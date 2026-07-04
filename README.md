@@ -1,6 +1,6 @@
 # Khaalis Wooden - Professional CV
 
-**Director of Enterprise Capture & Compliance** | **Founder, Zuup™ Innovation Lab** | **MBA Candidate**
+**Director of Enterprise Capture & Compliance** | **Founder, Zuup™ Innovation Lab** | **MBA · MSIT Candidate (Class of '27)**
 
 Service-Connected Disabled Veteran | Full-Stack Technologist | Federal Systems Architect
 
@@ -21,7 +21,8 @@ Cross-sector operations leader with 15+ years spanning IT management, engineerin
 **Current Leadership:**
 - **Visionblox LLC** - Director of Enterprise Capture & Compliance
 - **Zuup™ Innovation Lab** - Founder & Chief Architect
-- **Southern New Hampshire University** - MBA Candidate (Conferral: May 1, 2026)
+- **Southern New Hampshire University** - MBA, Information Technology Management (Conferred: May 1, 2026)
+- **Southern New Hampshire University** - MS, Information Technology (In Progress · Class of '27)
 
 ---
 
@@ -64,9 +65,13 @@ FAR/DFARS | CMMC | FedRAMP | HIPAA | NIST 800-53 | GSA MAS
 
 ## 🎓 Education
 
+**Southern New Hampshire University**
+- MS, Information Technology (In Progress · Expected Class of 2027)
+- Focus: Advanced IT Systems, Technology Leadership, Applied Innovation
+
 **Southern New Hampshire University - School of Business**
 - MBA, Information Technology Management (2024-2026)
-- **Expected Conferral:** May 1, 2026
+- **Conferred:** May 1, 2026
 - Focus: Technology Innovation, Strategic Business Development, Federal Contracting
 
 **Southern New Hampshire University**
@@ -220,7 +225,7 @@ I combine deep technical implementation experience with strategic business devel
 
 ---
 
-*Last Updated: December 2025*
+*Last Updated: July 2026*
 
 **Status:** Actively seeking strategic opportunities in federal technology modernization, AI governance, and compliance automation.
 
