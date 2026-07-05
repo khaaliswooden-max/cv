@@ -793,17 +793,27 @@
     // Scroll progress + back-to-top + active nav
     const scrollBar = document.getElementById("scrollBar");
     const toTop = document.getElementById("toTop");
-    const sections = [...document.querySelectorAll("section[id]")];
     const navAnchors = [...document.querySelectorAll("nav.links a")];
-    window.addEventListener("scroll", () => {
+    // Only track sections that have a matching nav link (skip #metrics, #philosophy, etc.)
+    const sections = navAnchors
+      .map(a => document.getElementById(a.getAttribute("href").slice(1)))
+      .filter(Boolean);
+    function onScroll() {
       const st = document.documentElement.scrollTop;
       const h = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      scrollBar.style.width = (st / h * 100) + "%";
+      scrollBar.style.width = (h > 0 ? st / h * 100 : 0) + "%";
       toTop.classList.toggle("show", st > 500);
-      let cur = "";
+      // Default to the first nav section so a link is always highlighted
+      let cur = sections.length ? sections[0].id : "";
       sections.forEach(s => { if (st >= s.offsetTop - 120) cur = s.id; });
+      // At the very bottom, activate the last section (it can't scroll past the threshold)
+      if (sections.length && st + document.documentElement.clientHeight >= document.documentElement.scrollHeight - 2) {
+        cur = sections[sections.length - 1].id;
+      }
       navAnchors.forEach(a => a.classList.toggle("active", a.getAttribute("href") === "#" + cur));
-    });
+    }
+    window.addEventListener("scroll", onScroll);
+    onScroll(); // set correct highlight on load, before any scroll
     toTop.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
   </script>
 </body>
